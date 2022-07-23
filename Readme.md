@@ -6,6 +6,11 @@
 + 2 picture
 + 3 link
 
+Need education?
+
+[![geekbrains](https://user-images.githubusercontent.com/109788980/180595977-2cf8ca04-1ebb-45d8-ade4-0a69ba7ab05f.png)](https://gb.ru)
+
+**write me**
 [![telegram](https://user-images.githubusercontent.com/109788980/180595113-225534b2-d10d-43a5-8d27-62779cd69b3c.svg)](https://t.me/AlexeyYalushkin)
 
 
@@ -18,4 +23,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; 
 </div>
 
+
+
+my certificates:
 [![stepik](https://user-images.githubusercontent.com/109788980/180594499-23bd733f-653b-4a1c-9434-6798df100e2e.svg)](https://stepik.org/users/405415005?auth=login&preview=true)

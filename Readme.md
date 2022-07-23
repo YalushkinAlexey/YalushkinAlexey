@@ -8,4 +8,11 @@
 
 ![codewars](https://www.codewars.com/users/Alexey%20Yalushkin/badges/small)
 
-[![Nein Danke](https://user-images.githubusercontent.com/109788980/180592637-8ac9dd35-78ff-452a-82fe-0b9c1ed2eec9.png)](https://www.youtube.com/embed/jzurd9Jlg38?list=RDjzurd9Jlg38)
+**Studying :**
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;  
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; 
+</div>
+
+[![stepik](https://user-images.githubusercontent.com/109788980/180594499-23bd733f-653b-4a1c-9434-6798df100e2e.svg)](https://stepik.org/users/405415005?auth=login&preview=true)

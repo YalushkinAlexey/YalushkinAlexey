@@ -7,7 +7,7 @@
 [![telegram](https://user-images.githubusercontent.com/109788980/180595113-225534b2-d10d-43a5-8d27-62779cd69b3c.svg)](https://t.me/AlexeyYalushkin)
 
 
-![codewars](https://www.codewars.com/users/Alexey%20Yalushkin/badges/small)
+[![codewars](https://www.codewars.com/users/Alexey%20Yalushkin/badges/small)](https://www.codewars.com/users/Alexey%20Yalushkin)
 
 **Studying :**
 <div>

@@ -4,7 +4,8 @@
 + 2 picture
 + 3 link
 
-![remont](https://user-images.githubusercontent.com/109788980/180589626-8bea55c8-2a96-4a08-810e-6c4a4db27286.png)
+[![telegram](https://user-images.githubusercontent.com/109788980/180595113-225534b2-d10d-43a5-8d27-62779cd69b3c.svg)](https://t.me/AlexeyYalushkin)
+
 
 ![codewars](https://www.codewars.com/users/Alexey%20Yalushkin/badges/small)
 
